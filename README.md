@@ -7,11 +7,11 @@
 
 - 다양한 데이터 증강 기법을 활용하여 모델의 강건성과 일반화 성능을 높임
 
-<img src="./resources/1.PNG">
+<img src="./resources/1.png">
 
-<img src="./resources/2.PNG">
+<img src="./resources/2.png">
 
 
 - `thop` 패키지를 활용하여 후보 모델들의 연산량 및 파라미터 수 계산
 
-<img src="./resources/3.PNG">
+<img src="./resources/3.png">
